@@ -1,5 +1,5 @@
 ## Zee5 Downloader
-If you find any bugs, report at [alphabots](https://t.me/alpha_bot_support
+If you find any bugs, report at [alphabots](https://t.me/alpha_bot_support)
 
 **My Features**:
 
@@ -37,8 +37,8 @@ python3 bot.py
 ## Configs
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
-* APP_ID        - [From my.telegram.org](https://my.telegram.org)
-* API_HASH      - [From my.telegram.org](https://my.telegram.org)
+* APP_ID        - From [my.telegram.org](https://my.telegram.org)
+* API_HASH      - From [my.telegram.org](https://my.telegram.org)
 * DB_URI        - PostgreSQL DB URL
 
 ## Commands
