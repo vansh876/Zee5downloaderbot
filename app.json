@@ -1,13 +1,13 @@
 {
-  "name": "Zee5 DL",
-  "description": "Zee5 Downloader",
+  "name": "Zee5 Downloader",
+  "description": "Zee5 Downloader Bot",
   "keywords": [
     "telegram",
     "zee5",
     "downloader"
   ],
 
-  "repository": "https://github.com/TroJanzHEX/Zee5-Downloader",
+  "repository": "https://github.com/utkarsh212646/Zee5downloaderbot",
   
   "env": {
     "WEBHOOK": {
