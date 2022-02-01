@@ -37,8 +37,8 @@ python3 bot.py
 ## Configs
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
-* APP_ID        - From my.telegram.org (or my.telegram.org)
-* API_HASH      - From my.telegram.org (or my.telegram.org)
+* APP_ID        - [From my.telegram.org](https://my.telegram.org)
+* API_HASH      - [From my.telegram.org](https://my.telegram.org)
 * DB_URI        - PostgreSQL DB URL
 
 ## Commands
